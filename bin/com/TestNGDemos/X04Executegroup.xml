@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "mysuite">
+   <test name = "myTest">
+      <classes>
+         <class name = "com.TestNGDemos.D04BeofreAfter_Method">  
+         </class>
+         <groups>
+             <run>
+                <exclude name = "gadgets">
+                </exclude>
+             </run>  
+         </groups>
+      </classes>
+   </test>
+</suite>
